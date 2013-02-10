@@ -9,8 +9,15 @@ class Shell_Latte extends Yachay_Console
     );
 
     public function index() {
-        echo 'asdf';
-        return true;
+        try {
+            
+            return true;
+        } catch (Exception $e) {
+            $this->messages[] = $e->getMessage();
+        }
+        
+        $this->__dump();
+        return false;
     }
 }
 

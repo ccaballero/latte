@@ -3,7 +3,9 @@
 
 <div id="items">
 <?php foreach ($this->channel['items'] as $item) { ?>
-    <h2><a href="<?php echo $item['link'] ?>"><?php echo $item['title'] ?></a></h2>
-    <p><?php echo $item['description'] ?></p>
+    <div class="post">
+        <h2><a href="<?php echo $item['link'] ?>"><?php echo $item['title'] ?></a></h2>
+        <p><?php echo $item['description'] ?></p>
+    </div>
 <?php } ?>
 </div>

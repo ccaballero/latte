@@ -9,13 +9,20 @@
         <link href="/css/style.css" media="screen" rel="stylesheet" type="text/css" />
     </head>
     <body>
-        <div id="logo">scesi latte</div>
-        <div id="main"><?php echo $this->layout()->content ?></div>
         <div id="bar">
-            <ul class="left">
-                <li><a href="#"><img src="/sources/9gag.ico" /></a></li>
-                <li><a href="#"><img src="/sources/meneame.ico" /></a></li>
-            </ul>
+            <div id="logo">scesi latte</div>
+            <div id="channels">
+                <ul>
+                    <li><a href="#"><img src="/sources/9gag.ico" /></a></li>
+                    <li><a href="#"><img src="/sources/meneame.ico" /></a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="clear"></div>
+        <div id="wrapper">
+            <div id="main">
+                <?php echo $this->layout()->content ?>
+            </div>
         </div>
     </body>
 </html>

@@ -3,7 +3,7 @@
 class IndexController extends Zend_Controller_Action
 {
     public function indexAction() {
-        $rss_url = 'http://latte.local/rss2.php';
+        $rss_url = 'http://latte.local/rss.xml';
         $rss = Zend_Feed::import($rss_url);
 
         $channel = array(

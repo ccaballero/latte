@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+        xmlns:atom="http://www.w3.org/2005/Atom"
+        xmlns:content="http://purl.org/rss/1.0/modules/content/"
+        xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:georss="http://www.georss.org/georss"
+        xmlns:media="http://search.yahoo.com/mrss/"
+        xmlns:meneame="http://meneame.net/faq-es.php">
+<channel>
+<title>Menéame: publicadas</title>
+<atom:link href="http://www.meneame.net/rss2.php" rel="self" type="application/rss+xml" />
+<link>http://www.meneame.net</link>
+<image><title>Menéame: publicadas</title><link>http://www.meneame.net</link><url>http://mnmstatic.net/img/mnm/eli-rss.png</url></image>
+<description>Sitio colaborativo de publicación y comunicación entre blogs</description>
+<pubDate>Sun, 10 Feb 2013 02:05:04 +0000</pubDate>
+<generator>http://blog.meneame.net/</generator>
+<language>es</language>
+<atom:link rel="hub" href="http://pubsubhubbub.appspot.com/"/>
+<item>
+        <meneame:link_id>1839192</meneame:link_id>
+        <meneame:status>published</meneame:status>
+        <meneame:user>alex_riveiro</meneame:user>
+        <meneame:votes>70</meneame:votes>
+        <meneame:negatives>0</meneame:negatives>
+        <meneame:karma>513</meneame:karma>
+        <meneame:comments>19</meneame:comments>
+        <meneame:url>http://www.abc.es/ciencia/20130209/abci-curiosity-roca-marte-201302091921.html</meneame:url>
+        <title>El Curiosity logra las primeras muestras de roca tras taladrar la superficie de Marte</title>
+        <link>http://menea.me/13f4o</link>
+        <comments>http://menea.me/13f4o</comments>
+        <pubDate>Sun, 10 Feb 2013 02:05:04 +0000</pubDate>
+        <dc:creator>alex_riveiro</dc:creator>
+        <category><![CDATA[ciencia]]></category>
+        <category><![CDATA[curiosity]]></category>
+        <category><![CDATA[taladro]]></category>
+        <category><![CDATA[roca marciana]]></category>
+        <category><![CDATA[marte]]></category>
+        <guid>http://menea.me/13f4o</guid>
+        <description><![CDATA[<img src='http://mnmstatic.net/cache/1c/10/thumb-1839192.jpg' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Por primera vez, un artefacto humano ha logrado extraer una muestra de roca de la superficie de Marte. El Curiosity, el rover en enviado por la NASA a Marte para tratar de averiguar si alguna vez hubo condiciones para la vida en el planeta rojo, ha obtenido una primera muestra tras perforar una roca plana y veteada con su taladro,.</p><p><strong>etiquetas</strong>: curiosity, taladro, roca marciana, marte</p><p><a href="http://menea.me/13f4o"><img src="http://www.meneame.net/backend/vote_com_img.php?id=1839192" alt="votes" width="200" height="16"/></a></p><p>&#187;&nbsp;<a href="http://www.abc.es/ciencia/20130209/abci-curiosity-roca-marte-201302091921.html" onmousedown="this.href='http://www.meneame.net/go.php?id=1839192'; return true" >noticia original</a></p>]]></description>
+        <media:thumbnail url="http://mnmstatic.net/cache/1c/10/thumb-1839192.jpg" width='60' height='60' />
+        <wfw:commentRss>http://www.meneame.net/comments_rss2.php?id=1839192</wfw:commentRss>	</item>
+
+<item>
+        <meneame:link_id>1839081</meneame:link_id>
+        <meneame:status>published</meneame:status>
+        <meneame:user>fersal</meneame:user>
+        <meneame:votes>280</meneame:votes>
+        <meneame:negatives>1</meneame:negatives>
+        <meneame:karma>512</meneame:karma>
+        <meneame:comments>18</meneame:comments>
+        <meneame:url>http://www.elblogsalmon.com/entorno/sr-rajoy-declaro-usted-el-total-de-los-alquileres-que-cobro-en-2010-cuanto-le-pago-el-pp-finalmente</meneame:url>
+        <title>Sr Rajoy ¿declaró usted el total de los alquileres que cobró en 2010?</title>
+        <link>http://menea.me/13f1l</link>
+        <comments>http://menea.me/13f1l</comments>
+        <pubDate>Sun, 10 Feb 2013 01:05:03 +0000</pubDate>
+        <dc:creator>fersal</dc:creator>
+        <category><![CDATA[política]]></category>
+        <category><![CDATA[rajoy]]></category>
+        <category><![CDATA[renta]]></category>
+        <category><![CDATA[declaracion bienes]]></category>
+        <category><![CDATA[diferencias]]></category>
+        <guid>http://menea.me/13f1l</guid>
+        <description><![CDATA[<img src='http://mnmstatic.net/cache/1c/0f/thumb-1839081.jpg' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Entre la declaración de la renta del 2010 y la declaración de bienes de este ejercicio, tenemos dos diferencias muy importantes. La primera de ella, las cantidades declaradas como rendimientos por alquileres. Según la declaración de bienes del Congreso, estos rendimientos suponen 11.200 euros, pero según la declaración de la renta del 2010, suponen solamente 3.764 euros ¿acaso en una considera ingresos brutos (Congreso)cuando debería haber consignado ingresos netos o bien declara por los alquileres lo que buenamente le parece? Véanse ambas decl</p><p><strong>etiquetas</strong>: rajoy, renta, declaracion bienes, diferencias</p><p><a href="http://menea.me/13f1l"><img src="http://www.meneame.net/backend/vote_com_img.php?id=1839081" alt="votes" width="200" height="16"/></a></p><p>&#187;&nbsp;<a href="http://www.elblogsalmon.com/entorno/sr-rajoy-declaro-usted-el-total-de-los-alquileres-que-cobro-en-2010-cuanto-le-pago-el-pp-finalmente" onmousedown="this.href='http://www.meneame.net/go.php?id=1839081'; return true" >noticia original</a></p>]]></description>
+        <media:thumbnail url="http://mnmstatic.net/cache/1c/0f/thumb-1839081.jpg" width='60' height='60' />
+        <wfw:commentRss>http://www.meneame.net/comments_rss2.php?id=1839081</wfw:commentRss>	</item>
+
+<item>
+        <meneame:link_id>1839137</meneame:link_id>
+        <meneame:status>published</meneame:status>
+        <meneame:user>galicus</meneame:user>
+        <meneame:votes>144</meneame:votes>
+        <meneame:negatives>0</meneame:negatives>
+        <meneame:karma>551</meneame:karma>
+        <meneame:comments>23</meneame:comments>
+        <meneame:url>http://www.rtve.es/alacarta/videos/el-documental/documental-2-legado-celta-galicia/1686486/</meneame:url>
+        <title>El legado celta de Galicia (documental)</title>
+        <link>http://menea.me/13f35</link>
+        <comments>http://menea.me/13f35</comments>
+        <pubDate>Sun, 10 Feb 2013 00:05:04 +0000</pubDate>
+        <dc:creator>galicus</dc:creator>
+        <category><![CDATA[historia]]></category>
+        <category><![CDATA[documental]]></category>
+        <category><![CDATA[galicia]]></category>
+        <category><![CDATA[castros]]></category>
+        <guid>http://menea.me/13f35</guid>
+        <description><![CDATA[<img src='http://mnmstatic.net/cache/1c/10/thumb-1839137.jpg' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Documental que da a conocer la singular cultura de los castros gallegos, aborda la historia del noroeste de la península ibérica desde la época megalítica hasta la romanización de la cultura castreña.</p><p><strong>etiquetas</strong>: documental, galicia, castros</p><p><a href="http://menea.me/13f35"><img src="http://www.meneame.net/backend/vote_com_img.php?id=1839137" alt="votes" width="200" height="16"/></a></p><p>&#187;&nbsp;<a href="http://www.rtve.es/alacarta/videos/el-documental/documental-2-legado-celta-galicia/1686486/" onmousedown="this.href='http://www.meneame.net/go.php?id=1839137'; return true" >noticia original</a></p>]]></description>
+        <media:thumbnail url="http://mnmstatic.net/cache/1c/10/thumb-1839137.jpg" width='60' height='60' />
+        <wfw:commentRss>http://www.meneame.net/comments_rss2.php?id=1839137</wfw:commentRss>	</item>
+
+<item>
+        <meneame:link_id>1839173</meneame:link_id>
+        <meneame:status>published</meneame:status>
+        <meneame:user>Esteban_Rosador</meneame:user>
+        <meneame:votes>749</meneame:votes>
+        <meneame:negatives>0</meneame:negatives>
+        <meneame:karma>568</meneame:karma>
+        <meneame:comments>27</meneame:comments>
+        <meneame:url>http://www.lasprovincias.es/v/20130209/alicante/euros-para-ayudar-urdangarin-20130209.html</meneame:url>
+        <title>Los 20 euros, para ayudar a Urdangarin</title>
+        <link>http://menea.me/13f45</link>
+        <comments>http://menea.me/13f45</comments>
+        <pubDate>Sat, 09 Feb 2013 20:30:04 +0000</pubDate>
+        <dc:creator>Esteban_Rosador</dc:creator>
+        <category><![CDATA[sociedad]]></category>
+        <category><![CDATA[dependencia]]></category>
+        <category><![CDATA[20 euros]]></category>
+        <category><![CDATA[urdangarin]]></category>
+        <guid>http://menea.me/13f45</guid>
+        <description><![CDATA[<img src='http://mnmstatic.net/cache/1c/10/thumb-1839173.jpg' width='60' height='60' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Una alicantina  en silla de ruedas y que necesita una ayuda las 24 horas del día, decidió este pasado jueves ponerse en contacto con la Casa Real tras recibir un 'tijeretazo' en su prestación por la dependencia. De los 350 euros que recibía se ha quedado con solo 20 euros. Un recorte que no entiende y que le impedirá seguir pagando a la mujer que le cuida. Dicho y hecho, envió un burofax a la Casa Real y un giro con esos 20 euros que el Consell le ha ingresado para ayudar a costear la fianza de Iñaki Urdangarin. Ha sido su medida de protesta</p><p><strong>etiquetas</strong>: dependencia, 20 euros, urdangarin</p><p><a href="http://menea.me/13f45"><img src="http://www.meneame.net/backend/vote_com_img.php?id=1839173" alt="votes" width="200" height="16"/></a></p><p>&#187;&nbsp;<a href="http://www.lasprovincias.es/v/20130209/alicante/euros-para-ayudar-urdangarin-20130209.html" onmousedown="this.href='http://www.meneame.net/go.php?id=1839173'; return true" >noticia original</a></p>]]></description>
+        <media:thumbnail url="http://mnmstatic.net/cache/1c/10/thumb-1839173.jpg" width='60' height='60' />
+        <wfw:commentRss>http://www.meneame.net/comments_rss2.php?id=1839173</wfw:commentRss>	</item>
+
+<item>
+        <meneame:link_id>1839130</meneame:link_id>
+        <meneame:status>published</meneame:status>
+        <meneame:user>moien</meneame:user>
+        <meneame:votes>328</meneame:votes>
+        <meneame:negatives>1</meneame:negatives>
+        <meneame:karma>606</meneame:karma>
+        <meneame:comments>44</meneame:comments>
+        <meneame:url>http://www.elmundo.es/elmundo/2013/02/09/andalucia_malaga/1360427329.html</meneame:url>
+        <title>Un niño belga burla la seguridad del aeropuerto y vuela de Bruselas a Málaga sin billete</title>
+        <link>http://menea.me/13f2y</link>
+        <comments>http://menea.me/13f2y</comments>
+        <pubDate>Sat, 09 Feb 2013 19:50:04 +0000</pubDate>
+        <dc:creator>moien</dc:creator>
+        <category><![CDATA[curiosidades]]></category>
+        <category><![CDATA[avión]]></category>
+        <category><![CDATA[seguridad]]></category>
+        <category><![CDATA[menor]]></category>
+        <category><![CDATA[bruselas]]></category>
+        <category><![CDATA[málaga]]></category>
+        <guid>http://menea.me/13f2y</guid>
+        <description><![CDATA[<p>[C&#38;P] Un niño viaja de Bruselas a Málaga sin billete. Al salir de clase el jueves decidió no volver a su casa y se fue al aeropuerto de Bruselas sin decírselo a sus padres.</p><p><strong>etiquetas</strong>: avión, seguridad, menor, bruselas, málaga</p><p><a href="http://menea.me/13f2y"><img src="http://www.meneame.net/backend/vote_com_img.php?id=1839130" alt="votes" width="200" height="16"/></a></p><p>&#187;&nbsp;<a href="http://www.elmundo.es/elmundo/2013/02/09/andalucia_malaga/1360427329.html" onmousedown="this.href='http://www.meneame.net/go.php?id=1839130'; return true" >noticia original</a></p>]]></description>
+        <wfw:commentRss>http://www.meneame.net/comments_rss2.php?id=1839130</wfw:commentRss>	</item>
+
+<item>
+        <meneame:link_id>1837944</meneame:link_id>
+        <meneame:status>published</meneame:status>
+        <meneame:user>JanSmite</meneame:user>
+        <meneame:votes>838</meneame:votes>
+        <meneame:negatives>0</meneame:negatives>
+        <meneame:karma>551</meneame:karma>
+        <meneame:comments>59</meneame:comments>
+        <meneame:url>http://www.levante-emv.com/cultura/2013/02/08/calatrava-dice-arrugas-cubiertas-les-arts-niega-ver-imagenes/972767.html</meneame:url>
+        <title>Calatrava dice que no sabe nada de las arrugas de las cubiertas de Les Arts y se niega a ver sus imágenes</title>
+        <link>http://menea.me/13e60</link>
+        <comments>http://menea.me/13e60</comments>
+        <pubDate>Fri, 08 Feb 2013 15:15:05 +0000</pubDate>
+        <dc:creator>JanSmite</dc:creator>
+        <category><![CDATA[sociedad]]></category>
+        <category><![CDATA[calatrava]]></category>
+        <category><![CDATA[valencia]]></category>
+        <category><![CDATA[arquitectura]]></category>
+        <category><![CDATA[desperfectos]]></category>
+        <guid>http://menea.me/13e60</guid>
+        <description><![CDATA[<p>&#34;<i>¿Arrugas? No sé...</i>&#34;, contestó en una entrevista al diario El Mundo realizada en Roma. Sin embargo, lo más llamativo es que la propia periodista le animó a ver las imágenes, a lo que el arquitecto contestó: &#34;<i>No hace falta. Los proyectos están ahí desde hace mucho tiempo y las cosas hasta ahora han funcionado perfectamente. Hemos hechos muchas cosas que están ahí. Se ha urbanizado todo el cauce del río. Se ha hecho muchísimo</i>&#34;. Relacionada: <a  href="http://www.meneame.net/story/palau-les-arts-santiago-calatrava-desconcha" title="www.meneame.net/story/palau-les-arts-santiago-calatrava-desconcha" rel="nofollow">www.meneame.net/story/palau-les-arts-santiago-calatrava-desconcha</a></p><p><strong>etiquetas</strong>: calatrava, valencia, arquitectura, desperfectos</p><p><a href="http://menea.me/13e60"><img src="http://www.meneame.net/backend/vote_com_img.php?id=1837944" alt="votes" width="200" height="16"/></a></p><p>&#187;&nbsp;<a href="http://www.levante-emv.com/cultura/2013/02/08/calatrava-dice-arrugas-cubiertas-les-arts-niega-ver-imagenes/972767.html" onmousedown="this.href='http://www.meneame.net/go.php?id=1837944'; return true" >noticia original</a></p>]]></description>
+        <wfw:commentRss>http://www.meneame.net/comments_rss2.php?id=1837944</wfw:commentRss>	</item>
+
+<item>
+        <meneame:link_id>1837933</meneame:link_id>
+        <meneame:status>published</meneame:status>
+        <meneame:user>IanCutris</meneame:user>
+        <meneame:votes>2066</meneame:votes>
+        <meneame:negatives>0</meneame:negatives>
+        <meneame:karma>587</meneame:karma>
+        <meneame:comments>45</meneame:comments>
+        <meneame:url>http://www.diariodeleon.es/noticias/espana/sepulveda-tuvo-seis-sueldos-publicos_767733.html</meneame:url>
+        <title>El marido de Ana Mato llegó a tener seis sueldos públicos</title>
+        <link>http://menea.me/13e5p</link>
+        <comments>http://menea.me/13e5p</comments>
+        <pubDate>Fri, 08 Feb 2013 14:45:14 +0000</pubDate>
+        <dc:creator>IanCutris</dc:creator>
+        <category><![CDATA[política]]></category>
+        <category><![CDATA[jesús sepúlveda]]></category>
+        <category><![CDATA[ana mato]]></category>
+        <category><![CDATA[sueldos publicos]]></category>
+        <category><![CDATA[gürtel]]></category>
+        <guid>http://menea.me/13e5p</guid>
+        <description><![CDATA[<p>El todavía marido de Ana Mato, Jesús Sepúlveda (la ministra y él jamás se han divorciado), llegó a tener unos ingresos legales de los más altos para un político, al margen de los, al menos, 442.992 euros que la Policía asegura que recibió de la trama Gürtel entre 2000 y 2005.</p><p><strong>etiquetas</strong>: jesús sepúlveda, ana mato, sueldos publicos, gürtel</p><p><a href="http://menea.me/13e5p"><img src="http://www.meneame.net/backend/vote_com_img.php?id=1837933" alt="votes" width="200" height="16"/></a></p><p>&#187;&nbsp;<a href="http://www.diariodeleon.es/noticias/espana/sepulveda-tuvo-seis-sueldos-publicos_767733.html" onmousedown="this.href='http://www.meneame.net/go.php?id=1837933'; return true" >noticia original</a></p>]]></description>
+        <wfw:commentRss>http://www.meneame.net/comments_rss2.php?id=1837933</wfw:commentRss>	</item>
+
+</channel>
+</rss>
