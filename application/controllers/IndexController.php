@@ -3,7 +3,18 @@
 class IndexController extends Zend_Controller_Action
 {
     public function indexAction() {
-        $rss_url = 'http://latte.local/rss.xml';
+        
+    }
+    
+    public function channelAction() {
+        $label = $this->getRequest()->getParam('channel');
+        
+        $db_channels = new Channels();
+        $channel = $db_channels->fetchRow(
+            $db_channels->select()->where('label = ?', $label)
+        );
+        
+        $rss_url = $channel->link;
         $rss = Zend_Feed::import($rss_url);
 
         $channel = array(

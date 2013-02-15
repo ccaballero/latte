@@ -11,12 +11,7 @@
     <body>
         <div id="bar">
             <div id="logo">scesi latte</div>
-            <div id="channels">
-                <ul>
-                    <li><a href="#"><img src="/sources/9gag.ico" /></a></li>
-                    <li><a href="#"><img src="/sources/meneame.ico" /></a></li>
-                </ul>
-            </div>
+            <div id="channels"><?php echo $this->placeholder('channels') ?></div>
         </div>
         <div class="clear"></div>
         <div id="wrapper">

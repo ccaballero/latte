@@ -6,7 +6,8 @@ CREATE TABLE `latte_channel` (
     `link`          varchar(128)    NOT NULL,
     `description`   text            NOT NULL DEFAULT '',
     `tsregister`    int unsigned    NOT NULL DEFAULT 0,
-    PRIMARY KEY (`ident`)
+    PRIMARY KEY (`ident`),
+    UNIQUE INDEX (`label`)
 ) DEFAULT CHARACTER SET UTF8;
 
 DROP TABLE IF EXISTS `latte_channel_item`;
